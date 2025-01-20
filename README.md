@@ -2,7 +2,7 @@
 
 Simple Task tracker/To-Do app made with React & json-server. 
 
-Original from [TraversyMedia's React crash-course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+A tutorial original from [TraversyMedia's React crash-course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
 
 # How to run
 
